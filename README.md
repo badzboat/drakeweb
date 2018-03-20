@@ -11,9 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# this is the rapper Drake. . . Says my name D  R  A  K  E
-## this is the rapper Drake. . . Says my name D  R  A  K  E
-### this is the rapper Drake. . . Says my name D  R  A  K  E
+this is the rapper Drake. . . Says my name D  R  A  K  E
 
 - Bulleted
 - List
@@ -25,6 +23,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+<link rel="apple-touch-touch-icon-precomposed" sizes="500x500" href="../ocp.jpg">
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
